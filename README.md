@@ -16,7 +16,7 @@
 1. Clone the repo
 
     ```bash
-    git clone https://github.com/AXNing/DGDNet.git
+    git clone https://github.com/qy792832/DFDNet.git
     ```
 
 1. Install dependent packages
