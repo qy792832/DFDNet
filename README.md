@@ -6,10 +6,10 @@
 
 ### Update
 
-- **2025.4.01**: This repo is created.
+- **2026.6.30**: This repo is created.
 
 ### The overall framework of the DFDNet
-![](https://github.com/AXNing/DFDNet/blob/main/framework.jpg)
+![](gaijinkuangjiatu.pdf)
 
 ### Installation
 
