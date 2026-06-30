@@ -9,7 +9,7 @@
 - **2026.6.30**: This repo is created.
 
 ### The overall framework of the DFDNet
-![](gaijinkuangjiatu.pdf)
+![](gaijinkuangjiatu.jpg)
 
 ### Installation
 
